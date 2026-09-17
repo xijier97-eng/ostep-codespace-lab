@@ -1,6 +1,6 @@
 # OSTEP cpu-intro Homework
-학번(Student ID): _______________
-이름(Name): _______________
+학번(Student ID): ___24215745____________
+이름(Name): _시지얼______________
 
 ## Q1
 Command: python3 process-run.py -l 5:0,5:0 -p 1 -c
